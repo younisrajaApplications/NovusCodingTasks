@@ -12,6 +12,8 @@ package Arrays;
 
 /**
  * Create an array of 10 numbers and print out the sum of all the numbers within the array
+ * {@code @Author} Younis Mubashar Raja
+ * {@code @Version} 24.08.2023
  */
 public class TestArray {
     public static void main(String[] args) {

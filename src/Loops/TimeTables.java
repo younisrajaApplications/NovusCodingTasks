@@ -15,6 +15,8 @@ Print the result for each within the For Loop using println
 
 /**
  * Ask for input and print timetables.
+ * {@code @Author} Younis Mubashar Raja
+ * {@code @Version} 24.08.2023
  */
 public class TimeTables {
     public static void main(String[] args) {

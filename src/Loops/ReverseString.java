@@ -16,6 +16,8 @@ You may use the Internet to assist with this task.
 
 /**
  * Get a array of characters input by user and print in reverse order
+ * {@code @Author} Younis Mubashar Raja
+ * {@code @Version} 24.08.2023
  */
 public class ReverseString {
     public static void main(String[] args) {

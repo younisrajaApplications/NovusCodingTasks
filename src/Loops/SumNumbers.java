@@ -18,6 +18,8 @@ For example: an entry of 3 will give 6: 1 + 2 + 3
 
 /**
  * Print the sum of all the numbers to a given numbers
+ * {@code @Author} Younis Mubashar Raja
+ * {@code @Version} 24.08.2023
  */
 public class SumNumbers {
     public static void main(String[] args) {
