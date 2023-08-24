@@ -34,6 +34,7 @@ public class FibonacciCalc {
             x1 = x2;
             x2 = xn;
             xn = x1.add(x2);
+            // Updating values
             System.out.print(xn + ", ");
             counter++;
         }
