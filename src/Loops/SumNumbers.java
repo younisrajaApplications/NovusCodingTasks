@@ -33,5 +33,6 @@ public class SumNumbers {
             counter++;
         }
         System.out.println(sumTotal);
+        reader.close();
     }
 }

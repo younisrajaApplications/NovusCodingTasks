@@ -26,5 +26,6 @@ public class TimeTables {
         for (int i = 1; i <= 12 ; i++) {
             System.out.println(timesTable + " x " + i + " = " + (timesTable*i));
         }
+        reader.close();
     }
 }

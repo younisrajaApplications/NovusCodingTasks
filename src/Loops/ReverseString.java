@@ -27,5 +27,6 @@ public class ReverseString {
         for (int i = 1; i <= letters.length; i++) {
             System.out.print(letters[(letters.length - i)]);
         }
+        reader.close();
     }
 }

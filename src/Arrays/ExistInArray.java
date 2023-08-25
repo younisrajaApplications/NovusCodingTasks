@@ -33,5 +33,6 @@ public class ExistInArray {
         } else {
             System.out.println(searchVal + " not found in the array");
         }
+        reader.close();
     }
 }
